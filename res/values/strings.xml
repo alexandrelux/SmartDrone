@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Circles</string>
+    <string name="action_start">Start counting</string>
+    <string name="action_stop">Stop counting</string>
+	<string name="invite_number">Hello, I\'ve found 0 cup(s)!</string>
+
+</resources>
